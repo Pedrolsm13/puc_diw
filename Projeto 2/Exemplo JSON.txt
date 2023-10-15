@@ -1,0 +1,20 @@
+[
+  {
+    "id": 17429,
+    "title": "CASIO G-Shock Men Black Digital Watch G-7710-1DR G223",
+    "price": 5495,
+    "description": "Case style: Digital watch with a circular case and a stainless steel back<br />Dial style: Digital dial<br />Strap style: Black rubber strap with a tang clasp for comfort<br />Features: Digital adjust panel, press button to reset time and alarm, fluorescence to view time in low light conditions, solid case back made of stainless steel for enhanced durability<br />Water-resistance up to 200 meters<br />Comes in a G-Shock case<br />Warranty: 2 years<br>Warranty provided by Brand Owner / Manufacturer<br>To register this product online for warranty, the customer has to visit https://register.casio.in. Post login, please select the 'Online Store' option and follow the steps for registration.",
+    "image": "http://assets.myntassets.com/assets/images/17429/2018/3/5/11520250143953-CASIO-G-Shock-Men-Black-Digital-Watch-G223-8211520250143786-1.jpg",
+    "brandName": "CASIO",
+    "season": "Winter",
+    "usage": "Casual",
+    "gender": "Men",
+    "articleNumber": "G223",
+    "baseColour": "Black",
+    "year": "2016",
+    "articleType": "Watches",
+    "displayCategories": "Accessories",
+    "category": "Accessories - Watches",
+    "rating": { "rate": 2.2, "count": 202 }
+  }
+]
