@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align: center
+}
+#PrimeiraParte {
+  width: 70%;
+  float: left;
+}
+#imagem1 {
+  width: 30%;
+  float: right;
+}
+#submenu {
+  font-size: 20px;
+}
+#SegundaParte {
+  clear: both;
+}
