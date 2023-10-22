@@ -1,11 +1,12 @@
 function init() {
-    fetch('https://diwserver.vps.webdock.cloud/products?page=1')
+    //fetch('https://diwserver.vps.webdock.cloud/products?page=1')
+    fetch('https://fakestoreapi.com/products')
         .then(res => res.json())
         .then(data => {
             console.log(data)
             let str = ''
             let aside = ''
-            data = data.products
+            //data = data.products
             for (let i = 0; i < data.length; i++) {
                 let products = data[i]
                 console.log(products)

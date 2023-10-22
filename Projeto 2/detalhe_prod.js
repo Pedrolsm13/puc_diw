@@ -12,7 +12,8 @@ function detalhes_produto() {
       console.log(valor)
     });
   
-    fetch(`https://diwserver.vps.webdock.cloud/products/${valor}`)
+    //fetch(`https://diwserver.vps.webdock.cloud/products/${valor}`)
+    fetch(`https://fakestoreapi.com/products/${valor}`)
       .then(res => res.json())
       .then(products => {
         console.log(products)
